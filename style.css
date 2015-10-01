@@ -1,0 +1,9 @@
+body{
+  width:960px;
+  min-height:500px;
+  background: #F60;
+}
+.wrapper{
+  color:#444;
+  margin: 0 auto;
+}
